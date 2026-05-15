@@ -4,5 +4,12 @@ __pycache__/
 *.pyc
 .DS_Store
 EllipseNet_Complete/checkpoints/
+EllipseNet_Complete/checkpoints*/
 EllipseNet_Complete/figures/
 EllipseNet_Complete/outputs/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
